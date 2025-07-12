@@ -15,14 +15,14 @@ An interactive SQL Builder UI built using **React + TypeScript** that helps user
 - ✅ Query Editor & Saved Queries
 
 ### 🌐 Live Demo
-> Coming soon: [https://rajasekar-arch.github.io/sql-builder-ui](https://your-github-username.github.io/sql-builder-ui)
+> [https://rajasekar-arch.github.io/sql-builder-ui](https://rajasekar-arch.github.io/sql-builder-ui)
 
 ---
 
 ### 🚀 Getting Started
 
 ```bash
-git clone https://github.com/your-username/sql-builder-ui.git
+git clone git@github.com:rajasekar-arch/sql-builder-ui.git
 cd sql-builder-ui
 npm install
 npm start
