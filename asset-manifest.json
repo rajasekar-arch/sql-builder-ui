@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sql-builder-ui/static/css/main.2625a4f0.css",
+    "main.js": "/sql-builder-ui/static/js/main.c18f9d87.js",
+    "static/js/453.2fd492d5.chunk.js": "/sql-builder-ui/static/js/453.2fd492d5.chunk.js",
+    "index.html": "/sql-builder-ui/index.html",
+    "main.2625a4f0.css.map": "/sql-builder-ui/static/css/main.2625a4f0.css.map",
+    "main.c18f9d87.js.map": "/sql-builder-ui/static/js/main.c18f9d87.js.map",
+    "453.2fd492d5.chunk.js.map": "/sql-builder-ui/static/js/453.2fd492d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2625a4f0.css",
+    "static/js/main.c18f9d87.js"
+  ]
+}
