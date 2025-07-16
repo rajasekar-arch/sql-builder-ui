@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sql-builder-ui/static/css/main.2625a4f0.css",
-    "main.js": "/sql-builder-ui/static/js/main.c18f9d87.js",
+    "main.css": "/sql-builder-ui/static/css/main.4bd53fca.css",
+    "main.js": "/sql-builder-ui/static/js/main.fd4666cb.js",
     "static/js/453.2fd492d5.chunk.js": "/sql-builder-ui/static/js/453.2fd492d5.chunk.js",
     "index.html": "/sql-builder-ui/index.html",
-    "main.2625a4f0.css.map": "/sql-builder-ui/static/css/main.2625a4f0.css.map",
-    "main.c18f9d87.js.map": "/sql-builder-ui/static/js/main.c18f9d87.js.map",
+    "main.4bd53fca.css.map": "/sql-builder-ui/static/css/main.4bd53fca.css.map",
+    "main.fd4666cb.js.map": "/sql-builder-ui/static/js/main.fd4666cb.js.map",
     "453.2fd492d5.chunk.js.map": "/sql-builder-ui/static/js/453.2fd492d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2625a4f0.css",
-    "static/js/main.c18f9d87.js"
+    "static/css/main.4bd53fca.css",
+    "static/js/main.fd4666cb.js"
   ]
 }
