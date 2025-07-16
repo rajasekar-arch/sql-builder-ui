@@ -7,13 +7,14 @@ const sqlFeatures = [
   { title: 'DCL & TCL (Grant, Commit, etc.)', path: '/dcl-tcl' },
   { title: 'Joins', path: '/joins' },
   { title: 'Subqueries', path: '/subqueries' },
-//   { title: 'Aggregate Functions', path: '/aggregates' },
+  //   { title: 'Aggregate Functions', path: '/aggregates' },
   { title: 'String / Date / Time Functions', path: '/functions' },
-//   { title: 'Set Operations (Union, Intersect)', path: '/set-operations' },
+  //   { title: 'Set Operations (Union, Intersect)', path: '/set-operations' },
   { title: 'Common Table Expressions (CTE)', path: '/cte' },
   { title: 'Schema Visualizer', path: '/schema-visualizer' },
-//   { title: 'Query Editor', path: '/editor' },
-//   { title: 'Saved Queries / History', path: '/history' },
+  { title: 'Window Functions', path: '/window-functions' },
+  //   { title: 'Query Editor', path: '/editor' },
+  //   { title: 'Saved Queries / History', path: '/history' },
 ];
 
 const Home = () => {

@@ -13,6 +13,7 @@ import SchemaPage from "./pages/schema-visualizer/schema-visualizer";
 import SubqueriesBuilder from "./pages/subqueries/subqueries";
 import CTEBuilder from "./pages/cte/cte";
 import ToasterProvider from "./components/ToasterProvider/ToasterProvider";
+import WindowFunctionBuilder from "./pages/window-functions/window-functions";
 
 function App() {
   return (
@@ -33,6 +34,7 @@ function App() {
             <Route path="/schema-visualizer" element={<SchemaPage />} />
             <Route path="/subqueries" element={<SubqueriesBuilder />} />
             <Route path="/cte" element={<CTEBuilder />} />
+            <Route path="/window-functions" element={<WindowFunctionBuilder />} />
           </Routes>
         </main>
         <Footer />
